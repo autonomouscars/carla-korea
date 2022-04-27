@@ -1,5 +1,7 @@
-CARLA Simulator
-===============
+CARLA Simulator Korea
+=====================
+이 github repository는 한국의 자율주행개발자들을 지원하기 위하여, (주)소네트 (sonnet.ai)에서 운영하는 사이트입니다.
+Carla-Korea는 carla.org와 무관함을 밝힙니다. 
 
 [![Build Status](https://travis-ci.org/carla-simulator/carla.svg?branch=master)](https://travis-ci.org/carla-simulator/carla)
 [![Documentation](https://readthedocs.org/projects/carla/badge/?version=latest)](http://carla.readthedocs.io)
@@ -10,10 +12,10 @@ CARLA Simulator
 [![forum](Docs/img/btn/forum.png)](https://github.com/carla-simulator/carla/discussions)
 [![discord](Docs/img/btn/chat.png)](https://discord.gg/8kqACuC)
 
-CARLA is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and
-validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings,
-vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and
-environmental conditions.
+
+CARLA는 자율 주행 연구를 위한 오픈 소스 시뮬레이터입니다. CARLA는 자율주행시스템을 개발, 교육 및 검증하기 위하여 개발되었습니다.
+오픈 소스 코드 및 프로토콜 외에도 CARLA는 무료로 사용할 수 있는 개방형 디지털 자산(도시 레이아웃, 건물, 차량)을 제공하고 있습니다.
+시뮬레이션 플랫폼은 센서 제품군 및 환경 조건의 유연한 사양을 지원합니다.
 
 [![CARLA Video](Docs/img/video_thumbnail_0910.jpg)](https://www.youtube.com/watch?v=7jej46ALVRE)
 
