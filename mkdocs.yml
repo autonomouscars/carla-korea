@@ -3,6 +3,7 @@ repo_url: https://github.com/autonomouscars/carla-korea
 docs_dir: Docs-kr
 edit_uri: 'edit/master-kr/Docs-kr/'
 theme: readthedocs
+language: kr
 extra_css: [extra.css]
 extra_javascript: [extra.js]
 
